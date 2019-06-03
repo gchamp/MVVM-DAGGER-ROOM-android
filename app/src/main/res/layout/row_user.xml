@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="user"
+            type="com.liveservey.database.UserTable"/>
+    </data>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <com.liveservey.dynamicview.customview.CustomTextView
+            android:id="@+id/tvUserId"
+            android:text="@{`UserId: `+user.userId}"
+            android:textSize="12sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <com.liveservey.dynamicview.customview.CustomTextView
+            android:id="@+id/tvUserName"
+            android:text="@{`UserName: `+user.userName}"
+            android:textSize="12sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <com.liveservey.dynamicview.customview.CustomTextView
+            android:id="@+id/tvUserEmail"
+            android:text="@{`UserEmail: `+user.userEmail}"
+            android:textSize="12sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</layout>

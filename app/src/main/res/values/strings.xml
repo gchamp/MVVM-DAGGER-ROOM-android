@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">JetPackTesting</string>
+    <string name="form_name">Form Name</string>
+    <string name="form_key">Form Key</string>
+    <string name="form_type">Form Type</string>
+    <string name="form_question_type">Question Base On</string>
+    <string name="question_name">Question Name</string>
+    <string name="question_type">Question Type</string>
+    <string name="question_key">Question Key</string>
+    <string name="add_new"><u>Add New</u></string>
+    <string name="submit">Submit</string>
+    <string-array name="type_question">
+        <item>Select Type</item>
+        <item>Text</item>
+        <item>Long Text</item>
+        <item>Date</item>
+        <item>Time</item>
+        <item>Date &amp; Time</item>
+        <item>Integer</item>
+        <item>Email</item>
+        <item>Phone Number</item>
+        <item>Image</item>
+        <item>Dropdown</item>
+        <item>Radio</item>
+        <item>Checkbox</item>
+    </string-array>
+    <string-array name="type_question_base">
+        <item>Select Type</item>
+        <item>Question Wise</item>
+        <item>All Question Wise</item>
+        <item>Section Wise</item>
+        <item>Group Wise</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="login">Login</string>
+    <string name="please_enter_email">*Please enter email.</string>
+    <string name="please_valid_email">*Please enter valid email.</string>
+    <string name="please_enter_password">*Please enter password.</string>
+    <string name="user_does_not_exist">User does not exist.</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_user_name">User Name</string>
+    <string name="prompt_mobile">Mobile</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="please_enter_first_name">*Please enter first name.</string>
+    <string name="please_enter_last_name">*Please enter last name.</string>
+    <string name="please_enter_mobile">*Please enter mobile number.</string>
+    <string name="please_valid_mobile">*Please enter valid mobile number.</string>
+    <string name="please_valid_password">*Please enter valid password.</string>
+    <string name="confirm_password_same">*Confirm Password should be same.</string>
+    <string name="email_already_exist">*Email is already exist.</string>
+
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="permission_camera_rationale">Camera permission is needed.</string>
+    <string name="permission_available_camera">Camera Permission has been granted.</string>
+
+    <string name="preparing_card">Preparing card</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="take_from_gallery">Choose from Gallery</string>
+
+    <string name="cam_cancel">Cancel</string>
+    <string name="saving_image">Saving image</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="file_path">File Path</string>
+    <string name="import_file">Import File</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="play_recording">Play Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="please_confirm_password">Please enter confirm password.</string>
+    <string name="remember_me">Remember me?</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="already_registered">Already Registered?</string>
+
+</resources>

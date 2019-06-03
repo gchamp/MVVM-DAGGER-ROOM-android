@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_custom_toast"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.liveservey.dynamicview.customview.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/dp_2"
+        android:layout_marginTop="@dimen/dp_2"
+        android:layout_marginEnd="@dimen/dp_2"
+        android:background="@drawable/bg_custom_toast_two"
+        android:gravity="center"
+        android:text="Alert"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/sp_12"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/dp_2"
+        android:layout_marginEnd="@dimen/dp_2"
+        android:layout_marginBottom="@dimen/dp_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_custom_toast_three">
+    <com.liveservey.dynamicview.customview.CustomTextView
+        android:id="@+id/tvToastMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/dp_10"
+        android:layout_marginStart="@dimen/dp_2"
+        android:layout_marginEnd="@dimen/dp_2"
+        android:text="custom"
+        android:textColor="@color/red"
+        android:textSize="@dimen/sp_10"/>
+
+    <com.liveservey.dynamicview.customview.CustomTextView
+        android:id="@+id/tvOk"
+        android:text="Ok"
+        android:layout_gravity="end"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:padding="@dimen/dp_5"
+        android:layout_marginEnd="@dimen/dp_2"
+        android:gravity="end"
+        android:textSize="@dimen/sp_12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

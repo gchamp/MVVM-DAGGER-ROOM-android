@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="viewModel"
+            type="com.liveservey.ui.signup.SignUpViewModel"/>
+    </data>
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context=".ui.login.LoginActivity"
+        android:background="@color/colorPrimary">
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/dp_10"
+            android:paddingBottom="@dimen/dp_20"
+            android:paddingStart="@dimen/dp_10"
+            android:paddingEnd="@dimen/dp_10"
+            >
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_first_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/prompt_first_name"
+                android:text="@={viewModel.userFirstName}"
+                android:imeOptions="actionNext"
+                android:padding="@dimen/dp_10"
+                android:inputType="textPersonName"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:maxLength="50"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_10">
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_last_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:hint="@string/prompt_last_name"
+                android:imeActionId="6"
+                android:text="@={viewModel.userLastName}"
+                android:imeOptions="actionNext"
+                android:inputType="textPersonName"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:maxLength="50"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_10">
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:hint="@string/prompt_email"
+                android:imeActionId="6"
+                android:text="@={viewModel.userEmail}"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:maxLength="60"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_10">
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:hint="@string/prompt_mobile"
+                android:imeActionId="6"
+                android:text="@={viewModel.userMobile}"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLines="1"
+                android:maxLength="10"
+                android:singleLine="true"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_10">
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:hint="@string/prompt_password"
+                android:imeActionId="6"
+                android:text="@={viewModel.userPassword}"
+                android:imeOptions="actionNext"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:maxLength="20"
+                android:singleLine="true"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_10">
+
+            <com.liveservey.dynamicview.customview.CustomEditTextView
+                android:id="@+id/et_cpassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:hint="@string/prompt_confirm_password"
+                android:imeActionId="6"
+                android:text="@={viewModel.userConfirmPassword}"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:maxLength="20"
+                android:background="@drawable/bg_rounded_stroke"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <com.liveservey.dynamicview.customview.CustomBoldTextView
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10"
+            android:layout_marginStart="@dimen/dp_50"
+            android:layout_marginEnd="@dimen/dp_50"
+            android:background="@drawable/bg_black_ripple"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp_15"
+            android:paddingBottom="@dimen/dp_15"
+            android:text="@string/signup"
+            android:onClick="@{()->viewModel.registerUser()}"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/sp_18"/>
+
+        <com.liveservey.dynamicview.customview.CustomTextView
+            android:id="@+id/tv_already_registered"
+            android:gravity="center"
+            android:onClick="@{()->viewModel.alreadyRegis()}"
+            android:text="@string/already_registered"
+            android:layout_marginTop="@dimen/dp_10"
+            android:textSize="@dimen/sp_14"
+            android:layout_marginStart="@dimen/dp_50"
+            android:layout_marginEnd="@dimen/dp_50"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</layout>

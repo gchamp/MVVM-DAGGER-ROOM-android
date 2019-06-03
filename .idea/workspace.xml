@@ -9,7 +9,71 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41de3ddc-2c7a-4d83-a0f0-6c3602e6f747" name="Default Changelist" comment="" />
+    <list default="true" id="41de3ddc-2c7a-4d83-a0f0-6c3602e6f747" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/liveservey/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/demo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/adapter/MainAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/adapter/MainAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/database/AppDatabaseConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/database/AppDatabaseConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/database/DeviceInfoTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/database/DeviceInfoTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/database/UserRoomDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/database/UserRoomDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/database/UserTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/database/UserTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/ApiInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/ApiInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/DatabaseInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/DatabaseInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/PreferenceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/PreferenceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/builder/ActivityBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/builder/ActivityBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/component/AppComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/component/AppComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/di/module/AppModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/di/module/AppModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/abstractsclass/AbstractClassForSignatureValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/abstractsclass/AbstractClassForSignatureValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/abstractsclass/AbstractClassForTypeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/abstractsclass/AbstractClassForTypeText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/abstractsclass/BaseAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/abstractsclass/BaseAbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldButtonView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomBoldButtonView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldEditTextView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomBoldEditTextView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldRadioButton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomBoldRadioButton.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldTextView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomBoldTextView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomButtonView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomButtonView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomCheckBoxView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomCheckBoxView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomEditTextView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomEditTextView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomRadioButton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomRadioButton.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomTextView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomTextView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/DeviceInfoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/DeviceInfoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FieldSkipPatternModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/FieldSkipPatternModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FormQuestionDbModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/FormQuestionDbModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FormSkipPatternModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/FormSkipPatternModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/HelpText.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/HelpText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/LogicModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/LogicModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/OptionsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/OptionsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/model/ValidationConditionModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/model/ValidationConditionModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/presenter/OnSubmitInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/presenter/OnSubmitInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/presenter/UserRepositoryListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/presenter/UserRepositoryListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginActivityModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginActivityModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpActivityModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpActivityModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/util/AppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppMarshMallowPermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/util/AppMarshMallowPermission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/util/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/util/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/liveservey/util/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/demo/util/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/custom_toast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_toast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/re_enter_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/re_enter_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/row_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/liveservey/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/demo/ExampleUnitTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +95,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/CommonUtils.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/CommonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2885">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
@@ -40,7 +104,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppMarshMallowPermission.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/AppMarshMallowPermission.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -48,11 +112,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppConstants.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/AppConstants.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -72,6 +151,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/liveservey/database/UserRoomDatabase.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_fragment.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/demo/util/AppConstants.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -83,6 +164,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -92,50 +174,11 @@
           <expand>
             <path>
               <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
             </path>
             <path>
               <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="liveservey" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="liveservey" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="dynamicview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="liveservey" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="liveservey" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="MVVM-DAGGER-ROOM-android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -245,7 +288,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16749585" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16749585" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -253,12 +296,12 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="0" visible="true" weight="0.4356223" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.03218884" />
       <window_info anchor="bottom" id="Run" order="1" />
       <window_info anchor="bottom" id="Logcat" order="2" weight="0.4055794" />
       <window_info anchor="bottom" id="TODO" order="3" />
       <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32939914" />
+      <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Debug" order="7" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
@@ -276,217 +319,203 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldEditTextView.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomBoldTextView.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldRadioButton.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomCheckBoxView.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomBoldTextView.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomEditTextView.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomCheckBoxView.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/dynamicview/customview/CustomTextView.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomEditTextView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/dynamicview/customview/CustomTextView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/DeviceInfoModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/DeviceInfoModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FormQuestionDbModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/FormQuestionDbModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/UserModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/UserModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/ValidationConditionModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/ValidationConditionModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/database/DeviceInfoTable.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/database/DeviceInfoTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FieldSkipPatternModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/FieldSkipPatternModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/FormSkipPatternModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/FormSkipPatternModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/HelpText.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/HelpText.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/LogicModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/LogicModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/model/OptionsModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/model/OptionsModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/presenter/OnSubmitInterface.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/presenter/OnSubmitInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/presenter/UserRepositoryListener.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/presenter/UserRepositoryListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/repository/UserRepository.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseDialog.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseDialog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseViewHolder.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseViewHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/base/BaseViewModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/base/BaseViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginActivityModule.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginActivityModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginNavigator.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginNavigator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/login/LoginViewModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/login/LoginViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpActivityModule.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpActivityModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpNavigator.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpNavigator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
@@ -494,7 +523,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/liveservey/databinding/NewUserFragmentBinding.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/ui/signup/SignUpViewModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/ui/signup/SignUpViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
           <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
@@ -557,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/liveservey/databinding/ActivityLoginBinding.java">
+    <entry file="file://$PROJECT_DIR$/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/demo/databinding/ActivityLoginBinding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
@@ -584,45 +613,56 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="225" column="24" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/database/UserRoomDatabase.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/database/UserRoomDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/database/UserTable.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/database/UserTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-510">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/CommonUtils.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/CommonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2885">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppMarshMallowPermission.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/AppMarshMallowPermission.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liveservey/util/AppConstants.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/demo/util/AppConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>

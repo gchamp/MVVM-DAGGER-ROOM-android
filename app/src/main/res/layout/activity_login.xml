@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.liveservey.ui.login.LoginViewModel"/>
+            type="com.demo.ui.login.LoginViewModel"/>
     </data>
     <LinearLayout
         xmlns:tools="http://schemas.android.com/tools"
@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_email"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -46,7 +46,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_password"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
         android:layout_marginTop="@dimen/dp_5"
         android:layout_marginStart="@dimen/dp_5"
         android:orientation="horizontal">
-        <com.liveservey.dynamicview.customview.CustomCheckBoxView
+        <com.demo.dynamicview.customview.CustomCheckBoxView
 
             android:id="@+id/checkBoxRememberMe"
             android:layout_width="0dp"
@@ -85,7 +85,7 @@
 
 
 
-        <com.liveservey.dynamicview.customview.CustomBoldTextView
+        <com.demo.dynamicview.customview.CustomBoldTextView
             android:id="@+id/btn_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

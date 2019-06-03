@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.liveservey.ui.signup.SignUpViewModel"/>
+            type="com.demo.ui.signup.SignUpViewModel"/>
     </data>
     <LinearLayout
         xmlns:tools="http://schemas.android.com/tools"
@@ -29,7 +29,7 @@
             android:paddingEnd="@dimen/dp_10"
             >
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_first_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_last_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_email"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_mobile"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -118,7 +118,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_password"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -139,7 +139,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/dp_10">
 
-            <com.liveservey.dynamicview.customview.CustomEditTextView
+            <com.demo.dynamicview.customview.CustomEditTextView
                 android:id="@+id/et_cpassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -156,7 +156,7 @@
 
         </android.support.design.widget.TextInputLayout>
 
-        <com.liveservey.dynamicview.customview.CustomBoldTextView
+        <com.demo.dynamicview.customview.CustomBoldTextView
             android:id="@+id/btn_submit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -173,7 +173,7 @@
             android:textColor="@color/colorWhite"
             android:textSize="@dimen/sp_18"/>
 
-        <com.liveservey.dynamicview.customview.CustomTextView
+        <com.demo.dynamicview.customview.CustomTextView
             android:id="@+id/tv_already_registered"
             android:gravity="center"
             android:onClick="@{()->viewModel.alreadyRegis()}"

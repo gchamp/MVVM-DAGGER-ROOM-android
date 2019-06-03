@@ -6,7 +6,7 @@
     android:gravity="center"
     android:orientation="vertical">
 
-    <com.liveservey.dynamicview.customview.CustomTextView
+    <com.demo.dynamicview.customview.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/bg_custom_toast_three">
-    <com.liveservey.dynamicview.customview.CustomTextView
+    <com.demo.dynamicview.customview.CustomTextView
         android:id="@+id/tvToastMsg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -40,7 +40,7 @@
         android:textColor="@color/red"
         android:textSize="@dimen/sp_10"/>
 
-    <com.liveservey.dynamicview.customview.CustomTextView
+    <com.demo.dynamicview.customview.CustomTextView
         android:id="@+id/tvOk"
         android:text="Ok"
         android:layout_gravity="end"
